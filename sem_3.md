@@ -9,4 +9,4 @@ hello Geek Brains :)
 * Крутой семинар! 
 * Спасибо!
 
-## _For better work create new branch for github community working!
+## _For better work create new branch for github community working!_
