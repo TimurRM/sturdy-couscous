@@ -8,3 +8,5 @@ hello Geek Brains :)
 * Привет это Тимур!
 * Крутой семинар! 
 * Спасибо!
+
+## _For better work create new branch for github community working!
